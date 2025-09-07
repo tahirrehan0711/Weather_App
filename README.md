@@ -106,7 +106,7 @@ Contributions are welcome! Feel free to submit a PR or open an issue for suggest
 ---
 ## 🙋‍♂️ Author
 
-**Chandan Kumar Chaurasiya**  
+**Md Rehan Tahir**  
 🔗 [LinkedIn] (https://www.linkedin.com/in/rehantahir734/)  
 📧 Email: tahirrehan734@gmail.com
 
